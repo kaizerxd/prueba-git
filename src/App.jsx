@@ -7,10 +7,10 @@ function App() {
 
   return (
     <>
-        <p>hola mundo
+        <p>hola mundo cambio
           
         </p>
-        <Login/>
+        
 
     </>
   )
